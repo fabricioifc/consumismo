@@ -1,9 +1,9 @@
 # consumismo
 Site para divulgar informações sobre assuntos relacionados ao consumismo.
 
-Lista de Funcionalidades - Consumismo
+### Lista de Funcionalidades - Consumismo
 
- - Barra de Navegação para todas as páginas
+ - Barra de Navegação no topo de todas as páginas 
  - Página Inicial
   - Texto com resumo curto
   - Vídeo introdutório
@@ -29,3 +29,10 @@ Lista de Funcionalidades - Consumismo
    - Intermediário e Final
   - Sustentável
   - Joguinho que mostra figuras e pergunta qual tipo de consumo ela representa
+
+### Ferramentas
+
+-Sublime, vs code
+-Git
+-Php, xampp
+-Banco de dados (para armazenar as informações dos jogos)
