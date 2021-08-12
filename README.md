@@ -32,7 +32,7 @@ Site para divulgar informações sobre assuntos relacionados ao consumismo.
 
 ### Ferramentas
 
--Sublime, vs code
--Git
--Php, xampp
--Banco de dados (para armazenar as informações dos jogos)
+- Sublime, vs code
+- Git
+- Php, xampp
+- Banco de dados (para armazenar as informações dos jogos)
